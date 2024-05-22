@@ -183,9 +183,16 @@ body::after {
     line-height: 1.2;
 }
 h1 {
-    font-size: 3em;
-    margin: 0;
+    display: none;
+    
 }
+
+}
+h2 {
+    display: none;
+    
+}
+
 
 /* CASE COLOR */
 #login [class^='case-'],
