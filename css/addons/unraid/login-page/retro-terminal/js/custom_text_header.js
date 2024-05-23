@@ -1,4 +1,3 @@
-
  //Custom Text Header //
  // ACSII slant font
 
@@ -6,13 +5,11 @@
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre>              __             __            _     
-  ____ ______/ /__________  / /___  ____ _(_)___ 
- / __ `/ ___/ __/ ___/ __ \\/ / __ \\/ __ `/ / __ \\
-/ /_/ (__  ) /_/ /  / /_/ / / /_/ / /_/ / / / / /
-\\__,_/____/\\__/_/   \\____/_/\\____/\\__, /_/_/ /_/ 
-                                 /____/          
-                                           
+<div class="custom-text-header"> <pre>                     __                             ___       __  
+   ____  ____  _____/ /__________  ____ ___  ____  / (_)___  / /__
+  / __ \\/ __ \\/ ___/ __/ ___/ __ \\/ __ '__ \\/ __ \\/ / / __ \\/ //_/
+ / / / / /_/ (__  ) /_/ /  / /_/ / / / / / / /_/ / / / / / / ,&lt;   
+/_/ /_/\\____/____/\\__/_/   \\____/_/ /_/ /_/\\____/_/_/_/ /_/_/|_|  
                                                                  </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
