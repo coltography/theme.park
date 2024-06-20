@@ -463,7 +463,7 @@
           }
         }
       },
-      "base_css": "https://coltography.github.io\n/css/base/unraid/unraid-base.css?sha=3301909ee65920bf6fe1c63db6eec8cf"
+      "base_css": "https://coltography.github.io\n/css/base/unraid/unraid-base.css?sha=f17bc8881ae788b0b2585c3c93dac376"
     },
     "uptime-kuma": {
       "addons": {},
