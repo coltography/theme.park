@@ -141,6 +141,9 @@
     "Catppuccin-mocha": {
       "url": "https://coltography.github.io\n/css/community-theme-options/catppuccin-mocha.css?sha=3a94f850384195bd9d75d270eed80581"
     },
+    "Custom1": {
+      "url": "https://coltography.github.io\n/css/theme-options/custom1.css?sha=76d6f559da413bce83e1471cf68a2922"
+    },
     "Dark": {
       "url": "https://coltography.github.io\n/css/theme-options/dark.css?sha=38f08efadc40a771376804e112c15b00"
     },
@@ -627,6 +630,9 @@
   "themes": {
     "Aquamarine": {
       "url": "https://coltography.github.io\n/css/theme-options/aquamarine.css?sha=591b3468083c72cda580a7c61d5d26ca"
+    },
+    "Custom1": {
+      "url": "https://coltography.github.io\n/css/theme-options/custom1.css?sha=76d6f559da413bce83e1471cf68a2922"
     },
     "Dark": {
       "url": "https://coltography.github.io\n/css/theme-options/dark.css?sha=38f08efadc40a771376804e112c15b00"
